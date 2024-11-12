@@ -1,4 +1,4 @@
-![alt text]()
+![alt text](https://github.com/arthur-wolff/Refinando-um-Projeto-Conceitual-de-Banco-de-Dados/blob/main/Modelo%20ecommerce.png)
 
 # Refinando-um-Projeto-Conceitual-de-Banco-de-Dados
 Repositorio direcionado a entrega de projeto para o curso da DIO sobre Banco de Dados
