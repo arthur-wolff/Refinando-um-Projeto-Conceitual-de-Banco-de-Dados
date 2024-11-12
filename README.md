@@ -1,2 +1,12 @@
 # Refinando-um-Projeto-Conceitual-de-Banco-de-Dados
 Repositorio direcionado a entrega de projeto para o curso da DIO sobre Banco de Dados
+
+# Objetivos
+Refine o modelo apresentado acrescentando os seguintes pontos:
+
+- [ ]  Cliente PJ e PF – Uma conta pode ser PJ ou PF, mas não pode ter as duas informações;
+- [ ]  Pagamento – Pode ter cadastrado mais de uma forma de pagamento;
+- [ ]  Entrega – Possui status e código de rastreio;
+
+# Descrição
+O modelo tem como foco uma representação de uma empresa de E-Commerce que trabalha tanto com estoque proprio como com terceiros
